@@ -1,0 +1,79 @@
+
+
+.container{
+    margin-bottom: 50px;
+}
+.bg-light{
+    border-radius: 0px 0px 10px 10px;
+}
+.bacground-bg{
+   background-color: #FEEAE9;
+   border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.taka{
+    color: #FF3987;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, #FF5297 0%, #FF3987 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.cat1{color: white;
+    border-radius: 10px;
+    
+    background-image: linear-gradient(-45deg,#FF9F33 20%,#FFCB00 80%);
+
+
+    padding: 10px 30px;
+}
+.cat2{color: white;
+    border-radius: 20px;
+
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+
+    padding: 10px 30px;
+    
+}
+.cat3{color: white;
+    
+    border-radius: 20px;
+
+
+    background-image: linear-gradient(-80deg,#4289FF 0%,#3F07F8 100%);
+    padding: 10px 30px;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 2px 2px 10px;
+   
+    margin: 10px 10px;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#Contact p{
+    color: #707070;
+}
+#Contact{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
+.bagpack h3{
+    margin: 10px 10px;
+}
